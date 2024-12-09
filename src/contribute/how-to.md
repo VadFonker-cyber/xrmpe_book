@@ -6,7 +6,7 @@ ___
 
 Вы можете отредактировать книжку, нажав справа по значку с ручкой.
 
-![suggest an edit centered](../images/suggest-an-edit.png)
+![suggest an edit centered](../images/suggest-an-edit.png#center)
 
 ___
 
@@ -42,11 +42,11 @@ ___
 1. Идите в [основной репозиторий](https://github.com/VadFonker-cyber/xrmpe_book)
 2. Нажмите кнопку Fork
 
-    ![centered](../images/fork.png)
+    ![centered](../images/fork.png#center)
 
 3. Создайте Fork проекта
 
-    ![centered](../images/create-fork.png)
+    ![centered](../images/create-fork.png#center)
 
 4. У вас появилась копия проекта
 
@@ -54,12 +54,12 @@ ___
 
 1. Откройте/Создайте папку в VSCodium, в которую вы скачаете репозиторий.
 
-    ![centered](../images/folder-download.png)
+    ![centered](../images/folder-download.png#center)
 
 2. Откройте сессию в PowerShell или GitBash
 3. Скопируйте ссылку на репозиторий.
 
-    ![centered](../images/https-git.png)
+    ![centered](../images/https-git.png#center)
 
 4. Вызовите команду на вашем компьютере, вставив ссылку вместо LINK.
 
@@ -78,21 +78,21 @@ ___
 
 2. Добавьте изменения в отслеживаемые в разделе Git VSCodium. Откройте вкладку с Gitом, наведитесь над линией "Changes" и нажмите "+".
 
-    ![centered](../images/git-add.png)
+    ![centered](../images/git-add.png#center)
 
 3. Добавьте коментарий и нажмите "✔" чтобы зафиксировать ("commit") изменения
 
-    ![centered](../images/git-commit.png)
+    ![centered](../images/git-commit.png#center)
 
 4. После этого у вас появится возможнорсть опубликовать изменения
 
-    ![centered](../images/git-push.png)
+    ![centered](../images/git-push.png#center)
 
 ## Создание пулл реквеста
 
 1. В основном репозитории, откройте вкладку "Pull Requests" и нажмите "New pull request"
 
-    ![centered](../images/github-pull-request.png)
+    ![centered](../images/github-pull-request.png#center)
 
 2. Нажмите "compare across forks". Выберите репозиторий и нажмите "Create pull request".
 
