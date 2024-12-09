@@ -9,3 +9,6 @@ title = "xrMPE modding book"
 git-repository-url = "https://github.com/VadFonker-cyber/xrmpe_book"
 edit-url-template = "https://github.com/VadFonker-cyber/xrmpe_book/edit/main/{path}"
 additional-css = ["src/custom.css"]
+
+[output.html.print]
+enable = false
