@@ -1,6 +1,10 @@
 [book]
 authors = ["xrMPE"]
-language = "en"
+language = "ru"
 multilingual = false
 src = "src"
-title = "xrMPE_BOOK"
+title = "xrMPE modding book"
+
+[output.html]
+git-repository-url = "https://github.com/VadFonker-cyber/xrmpe_book"
+edit-url-template = "https://github.com/VadFonker-cyber/xrmpe_book/edit/main/{path}"

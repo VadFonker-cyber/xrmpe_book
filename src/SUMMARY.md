@@ -1,8 +1,8 @@
 # Summary
 
 - [Вступление](./init.md)
-- [Помощь книжке](./contribute.md)
-- [Благодарность](./thank.md)
+- [Помощники](./contribute/contributors.md)
+  - [Помощь книжке](./contribute/how-to.md)
 
 ___
 
