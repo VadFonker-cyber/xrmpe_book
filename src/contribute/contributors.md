@@ -5,6 +5,7 @@
 ___
 
 [xrMPE Discord](https://discord.gg/N7H3vmCd3W)
+[anomaly-modding-book](https://github.com/Igigog/anomaly-modding-book)
 
 ## Благодарности
 
