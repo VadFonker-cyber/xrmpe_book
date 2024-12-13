@@ -4,7 +4,7 @@
 
 ___
 
-[xrMPE Discord](https://discord.gg/xrmpe)
+[xrMPE Discord](https://discord.gg/N7H3vmCd3W)
 
 ## Благодарности
 
