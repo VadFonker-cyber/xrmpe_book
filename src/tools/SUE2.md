@@ -4,8 +4,9 @@
 
 ![SUE2_interface](./images/sue2_interface.png#center)
 
-**Скачать:**
+___
 
+**Скачать:**\
 [Google Drive](https://drive.google.com/file/d/1wt1U_cm2kqLV08ZxhYZtANmS6G4P-J8J)\
 [Google Drive(ALT link)](https://drive.google.com/file/d/1ZRJ4-2pUWj5YxMMlSpkTvzVBdILHHNca)
 ___

@@ -10,3 +10,11 @@ img[src*="#center"] {
     display: block;
     margin: auto;
 }
+
+red {
+    color: red;
+  }
+
+green {
+    color: green;
+}
