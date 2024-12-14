@@ -11,5 +11,11 @@
 // Insert spaces when pressing Tab. This setting is overriden
 // based on the file contents when `editor.detectIndentation` is true.
 "editor.insertSpaces": true,
+
+"markdownlint.config": {
+    "MD033": {
+      "allowed_elements": ["nobr", "sup", "a", "red", "green", "p", "b"]
+    }
+  }
 }
 }
