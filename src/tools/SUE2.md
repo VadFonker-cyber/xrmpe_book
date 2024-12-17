@@ -1,6 +1,4 @@
-<p style="text-align: center; font-size: 24px">
-<b>Universal Extractor 2.0</b>
-</p>
+<h1 style="text-align: center">Universal Extractor 2.0</h1>
 
 ![SUE2_interface](./images/sue2_interface.png#center)
 
@@ -30,9 +28,7 @@ ___
 
 ___
 
-<p style="text-align: center; font-size: 24px">
-<b>Таблица по ключам (Сборки):</b>
-</p>
+<h2 style="text-align: center">Таблица по ключам (Сборки):</h2>
 
 | Сборка | Ключ |
 |--------------|:-----------:|
@@ -45,9 +41,7 @@ ___
 
 ___
 
-<p style="text-align: center; font-size: 24px">
-<b>Таблица по ключам (Релизы):</b>
-</p>
+<h2 style="text-align: center">Таблица по ключам (Релизы):</h2>
 
 
 | Релиз | Ключ |

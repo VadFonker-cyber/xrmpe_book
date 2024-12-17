@@ -14,7 +14,7 @@
 
 "markdownlint.config": {
     "MD033": {
-      "allowed_elements": ["nobr", "sup", "a", "red", "green", "p", "b"]
+      "allowed_elements": ["nobr", "sup", "a", "red", "green", "p", "b", "h1", "h2", "h3", "h4", "h5", "h6"]
     }
   }
 }
