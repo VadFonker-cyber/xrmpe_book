@@ -1,6 +1,4 @@
-<p style="text-align: center; font-size: 24px">
-<b>Привествуем вас!</b>
-</p>
+<h1 style="text-align: center">Привествуем вас!</h1>
 
 ___
 

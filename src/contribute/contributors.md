@@ -1,13 +1,13 @@
-# Помощники
+<h1 style="text-align: center;">Помощники</h1>
 
-## Ссылки
+<h2 style="text-align: center;">Ссылки</h2>
 
 ___
 
-[xrMPE Discord](https://discord.gg/N7H3vmCd3W)
-[anomaly-modding-book](https://github.com/Igigog/anomaly-modding-book)
+[xrMPE Discord](https://discord.gg/N7H3vmCd3W) - за прекрасный мод.\
+[anomaly-modding-book](https://github.com/Igigog/anomaly-modding-book) - за основные идеи для книги.
 
-## Благодарности
+<h2 style="text-align: center;">Благодарности</h2>
 
 ___
 
@@ -20,7 +20,7 @@ ___
 
 ___
 
-Так-же спасибо этим людям:
+**Так-же спасибо этим людям:**
 
 - xrMPE Team
 - [akasi_key](https://discord.com/users/679249281206714368)
